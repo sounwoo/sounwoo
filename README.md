@@ -1,4 +1,5 @@
 ### 🌱 Intro 🌱
+<img src="https://raw.githubusercontent.com/arturssmirnovs/github-profile-views-counter/master/banner.png" alt="Banner about GitHub profile views counter">
 
 ### 🛠 Tech Stack 🛠
 
