@@ -15,7 +15,8 @@
   
 <div align="center" style="text-align:center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sounwoo&langs_count=8)](https://github.com/sounwoo/github-readme-stats) 
+### Github Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sounwoo&show_icons=true&theme=radical)
-</div>
+<img width="450em" src="https://github-profile-trophy.vercel.app/?username=sounwoo&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtg1014&show_icons=true&locale=en&layout=compact&theme=radical" alt="박선우's Most used lang" />
+:-------------------------:|:-------------------------:
+<img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=sounwoo&theme=radical" alt="Vikash2806 Streak" /> | <img  width="450em" align="center" alt="박선우's Github stats"  src="https://github-readme-stats.vercel.app/api?username=rtg1014&show_icons=true&count_private=true&theme=radical" /> 
