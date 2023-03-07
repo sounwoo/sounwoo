@@ -14,7 +14,7 @@ jobs:
       - uses: sounwoo/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: sounwoo
       - name: Commit & Push
         run: |
           git config sounwoo github-actions
