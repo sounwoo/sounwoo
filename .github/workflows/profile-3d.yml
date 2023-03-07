@@ -17,7 +17,7 @@ jobs:
           USERNAME: sounwoo
       - name: Commit & Push
         run: |
-          git config sounwoo github-actions
+          git config 선우 github-actions
           git config mna7805@gmail.com github-actions@github.com
           git add -A .
           git commit -m "generated"
